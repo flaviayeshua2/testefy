@@ -15,7 +15,6 @@ public class TerceiraClasse {
 	public static void main(String[] args) {
 		System.out.println("Marco");
 		System.out.println("Flávia");
-		System.out.println("Neves");
 		System.out.println("Ximbinha");
 	}
 
