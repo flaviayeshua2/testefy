@@ -17,5 +17,9 @@ public class TerceiraClasse {
 		System.out.println("Flávia");
 		System.out.println("Ximbinha");
 	}
+	
+	private static void parents() {
+		System.out.println("Neves");
+	}
 
 }
