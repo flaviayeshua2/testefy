@@ -14,7 +14,6 @@ public class SegundaClasse {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Jesus");
-		System.out.println("Maria");
 		System.out.println("Jose");
 	}
 
