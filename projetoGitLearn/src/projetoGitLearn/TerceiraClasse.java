@@ -20,6 +20,7 @@ public class TerceiraClasse {
 	
 	private static void parents() {
 		System.out.println("Neves");
+		System.out.println("só pra ver");
 	}
 
 }
